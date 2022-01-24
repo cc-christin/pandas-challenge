@@ -5,6 +5,8 @@ Analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. Generate a report that breaks down the game's purchasing data into meaningful insights.
 
+![purchase_data_csv](https://github.com/christin-c-sok/pandas-challenge/blob/main/Images/001_purchase_data_csv.png)
+
 Your final report should include each of the following:
 
 ### Player Count

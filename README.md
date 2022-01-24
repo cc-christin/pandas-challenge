@@ -7,8 +7,6 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 ![purchase_data_csv](https://github.com/christin-c-sok/pandas-challenge/blob/main/Images/001_purchase_data_csv.png)
 
-Your final report should include each of the following:
-
 ### Player Count
 
 * Total Number of Players: 780
@@ -105,7 +103,7 @@ Your final report should include each of the following:
 ![Observations](https://github.com/christin-c-sok/pandas-challenge/blob/main/Images/010_observations.png)
 
 
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+* Pandas Library and the Jupyter Notebook.
+* Submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
+* Written description of three observable trends based on the data.
+* [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
